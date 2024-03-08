@@ -1,1 +1,1 @@
-# CAPTCHA
+Bilgiilendirme sunusu
